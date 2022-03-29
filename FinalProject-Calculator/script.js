@@ -107,5 +107,6 @@ ac.addEventListener("click", () => {
 const percent = document.querySelector(".percent")
 
 percent.addEventListener("click", () => {
-    updateScreen(currentNum / 100)
+    currentNum/=100
+    updateScreen(currentNum)
 })
