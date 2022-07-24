@@ -1,4 +1,12 @@
 .jumbotron{
     padding-top: 2rem;
-    background-color: rgb(204, 206, 253);
+    background-color: #CECCFD;
+}
+
+#projects{
+    background-color: #CECCFD;
+}
+
+nav{
+    background-color: #6964fe;
 }
